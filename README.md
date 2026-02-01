@@ -11,7 +11,14 @@ We implement three experiments:
 Clustering is evaluated using KMeans, Agglomerative Clustering, and DBSCAN with standard clustering metrics.
 
 ---
+## 👤 Author
 
+Argha Das  
+BRAC University  
+Email: email.arghadas@gmail.com
+Linkedin: https://www.linkedin.com/in/argha-das-08899223b/
+
+---
 ## 📁 Project Structure
 
 ```
@@ -165,14 +172,7 @@ Final clustering results are stored in the `results/` directory.
 
 ---
 
-## 👤 Author
 
-Argha Das  
-BRAC University  
-Email: email.arghadas@gmail.com
-Linkedin: https://www.linkedin.com/in/argha-das-08899223b/
-
----
 
 ## 📌 Reproducibility Note
 
